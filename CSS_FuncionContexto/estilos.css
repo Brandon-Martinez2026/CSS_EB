@@ -1,0 +1,8 @@
+
+/*color del elemento strong dentro de p*/p strong {
+    color:#0000ff;
+}
+/*color del elemento strong dentro de h1*/
+h1 strong{
+    color:#ff0000;
+}

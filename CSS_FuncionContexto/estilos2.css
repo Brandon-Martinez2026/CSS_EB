@@ -1,0 +1,4 @@
+/*Color de texto para elementos em dentro de un div que contiene un h1 */
+div h1 em {
+    color: #ff0000;
+}

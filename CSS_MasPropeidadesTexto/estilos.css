@@ -1,0 +1,10 @@
+/*Atributos de texto*/
+h1  {
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    text-transform: capitalize;
+}
+/*Identacion del texto*/
+p {
+    text-indent:20px;
+}

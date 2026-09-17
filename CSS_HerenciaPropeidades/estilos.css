@@ -1,0 +1,11 @@
+/*Estilo del body*/body {
+    color: #00f;
+    font-family:verdana;
+
+}
+/*Color del elemento em*/em {
+    color: #008800;
+}
+/*Color del elemento p*/p{
+    color: #999999;
+}
